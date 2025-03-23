@@ -16,13 +16,13 @@ Products App is a modern Android application that allows users to browse product
 - **Networking**: Retrofit
 - **Database**: Room
 - **Asynchronous Programming**: Kotlin Coroutines & Flows
-- **UI**: Jetpack Components, RecyclerView
+- **UI**: Jetpack Components, Lazy column
 - **State Management**: SharedFlow for search feature
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/products-app.git
+   git clone https://github.com/ziadHelaly/MVVM.git
    ```
 2. Open the project in Android Studio.
 3. Sync Gradle and build the project.
@@ -40,6 +40,7 @@ Products App is a modern Android application that allows users to browse product
 
 ## Video Demonstration
 <p align="center">
+
 
 
 Uploading app.mp4…
